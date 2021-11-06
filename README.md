@@ -2,7 +2,7 @@
 
 The batch file shows start and end lines of files in specified directory.
 
-This is faster than opening with notepad.
+This is faster than opening the file with notepad.
 
 ## Requirement
 
