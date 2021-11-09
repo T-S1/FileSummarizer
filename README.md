@@ -11,5 +11,5 @@ OS: Windows
 ## Usage
 
 ```bash
-.\check [Directory Path]
+.\check .\files
 ```
